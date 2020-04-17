@@ -1,2 +1,2 @@
 # hello-world
-my first repostitory
+My name is Hongkang (Carl). I am a phd candidate. I am learning to use github.
